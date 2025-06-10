@@ -37,7 +37,7 @@ Telefónica Germany (O2): 由西班牙Telefónica集团旗下，价格实惠，
 西班牙用户可能对Movistar、Vodafone Spain、Orange Spain等运营商很熟悉。在德国：
 
 Vodafone Germany 与Vodafone Spain同属一家公司，服务模式和质量可能相似。
-# 1 虽然不是Movistar，但同属Telefónica集团，可能在客户服务和套餐设计上有一定的相似性。
+虽然不是Movistar，但同属Telefónica集团，可能在客户服务和套餐设计上有一定的相似性。
 Deutsche Telekom 作为德国本地运营商，网络覆盖和服务质量在德国市场中领先，但对西班牙用户来说可能较为陌生。
 📊 选择建议: 如果您对Vodafone或Telefónica的服务模式熟悉，可以优先考虑Vodafone Germany或O2。如果追求最佳网络覆盖，Telekom是一个不错的选择。
 
@@ -45,7 +45,7 @@ Deutsche Telekom 作为德国本地运营商，网络覆盖和服务质量在德
 优势: 无需签订合同，灵活性高，适合短期停留。
 劣势: 通常每使用一次费用较高，需要定期充值。
 适用人群: 短期访客或对灵活性要求高的用户。
-# 1 合约SIM卡
+合约SIM卡
 优势: 每月费用更低，数据选择更多，适合长期居住。
 劣势: 需要签Refining article content- I'm adding details on Deutsche Telekom's plans, like MagentaMobil XS starting at 20 euros with 5GB, up to XL with unlimited data. 订合同（通常24个月），取消较为麻烦。
 适用人群: 长期居住者或流量需求较高的用户。
@@ -56,7 +56,7 @@ Deutsche Telekom 作为德国本地运营商，网络覆盖和服务质量在德
 
 Telekom: MagentaMobil系列套餐均包含无限国内短信。
 Vodafone: 所有套餐均包含无限国内短信，国际短信视具体套餐而定。
-# 1: 无限流量套餐包含无限国内短信。
+无限流量套餐包含无限国内短信。
 📩 特别提醒: 短信通常免费，但国际短信可能需额外付费。确保在选择套餐时检查国际短信选项。
 
 # 6. 如何提高短信到达率
