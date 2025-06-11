@@ -101,7 +101,7 @@ eSIM (嵌入式SIM卡) 是一种新型SIM卡技术，无需实体SIM卡即可激
 
 [![Watch the video](https://img.youtube.com/vi/3enjqtwfZPw/hqdefault.jpg)](https://www.youtube.com/watch?v=3enjqtwfZPw)
 
-注册社交APP（如WhatsApp、Instagram）需要一个德国手机号码 。
+[注册社交APP（如WhatsApp、Instagram）需要一个德国手机号码 。](https://t.me/s/esim1088)
 
 **步骤：**
 
@@ -110,7 +110,7 @@ eSIM (嵌入式SIM卡) 是一种新型SIM卡技术，无需实体SIM卡即可激
 3.  下载社交APP，输入手机号码接收验证码 。
 4.  完成注册并开始使用 。
 
-**温馨提示：** 注册过程中可能遇到地区限制、验证码无法接收等问题。德国原生号码可以有效解决这些问题.
+**温馨提示：** [注册过程中可能遇到地区限制、验证码无法接收等问题。德国原生号码可以有效解决这些问题.](https://t.me/s/esim1088)
 
 ## 12. 用户真实反馈 🗣️
 
